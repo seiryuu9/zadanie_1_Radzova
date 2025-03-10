@@ -1,0 +1,12 @@
+{
+  "images": [
+    { "src": "img/gallery-tn-01.jpg", "alt": "Image 1 Description" },
+    { "src": "img/gallery-tn-02.jpg", "alt": "Image 2 Description" },
+    { "src": "img/gallery-tn-03.jpg", "alt": "Image 3 Description" },
+    { "src": "img/gallery-tn-04.jpg", "alt": "Image 4 Description" },
+    { "src": "img/gallery-tn-05.jpg", "alt": "Image 5 Description" },
+    { "src": "img/gallery-tn-06.jpg", "alt": "Image 6 Description" },
+    { "src": "img/gallery-tn-01.jpg", "alt": "Image 7 Description" },
+    { "src": "img/gallery-tn-02.jpg", "alt": "Image 8 Description" }
+  ]
+}
